@@ -1,7 +1,3 @@
----
-description: 'Author : Murugesh Kumar'
----
-
 # AWS Overview
 
 ## Overview

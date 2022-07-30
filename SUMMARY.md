@@ -9,6 +9,7 @@
 * [users](iam/users.md)
 * [User Groups](iam/user-groups.md)
 * [Policies](iam/policies.md)
+* [Roles](iam/roles.md)
 
 ## EC2
 

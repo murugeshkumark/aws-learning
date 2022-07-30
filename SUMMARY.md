@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [AWS Overview](README.md)
+
+## Overview
+
+* [AWS Overview](overview/master.md)
 
 ## IAM
 

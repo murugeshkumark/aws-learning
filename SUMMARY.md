@@ -4,7 +4,8 @@
 
 ## Overview
 
-* [AWS Overview](<README (1).md>)
+* [AWS Overview](README.md)
+* [How to prepare for Exam](overview/how-to-prepare-for-exam.md)
 
 ## IAM
 

@@ -1,8 +1,10 @@
 # Table of contents
 
+* [README](README.md)
+
 ## Overview
 
-* [AWS Overview](README.md)
+* [AWS Overview](<README (1).md>)
 
 ## IAM
 
@@ -11,7 +13,3 @@
 ## EC2
 
 * [Overview](ec2/overview.md)
-
-***
-
-* [README](readme.md)

@@ -8,8 +8,8 @@
 
 ## IAM
 
-* [Overview](iam/users.md)
+* [IAM Overview](iam/iam-overview.md)
 
 ## EC2
 
-* [Overview](ec2/overview.md)
+* [EC2 Overview](ec2/ec2-overview.md)

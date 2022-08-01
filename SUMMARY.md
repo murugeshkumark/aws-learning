@@ -1,10 +1,10 @@
 # Table of contents
 
-* [AWS Certification Preparation](README.md)
+* [AWS Certificate Preparation](README.md)
 
 ## Overview
 
-* [AWS Overview](<README (1).md>)
+* [History](overview/history.md)
 * [How to prepare for Exam](overview/how-to-prepare-for-exam.md)
 
 ## IAM
